@@ -1,82 +1,136 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dampak Asap Karhutla | Alea Talitha Putri</title>
-  <link rel="stylesheet" href="../style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dampak Asap Karhutla | Alea Talitha Putri</title>
+
+    <link rel="stylesheet" href="../style.css">
 </head>
+
 <body>
-<header class="hero">
-  <h1>Berita Lingkungan</h1>
-  <p>Kenali dampak asap karhutla</p>
-</header>
 
-<nav>
-  <a href="../index.html">Beranda</a>
-  <a href="../tentang-saya.html">Tentang Saya</a>
-  <a href="../sekolahku.html">Sekolahku</a>
-  <a href="../syair-lagu.html">Syair Lagu</a>
-  <a href="berita-1.html">Berita 1</a>
-  <a href="berita-2.html">Berita 2</a>
-</nav>
+    <header class="hero">
+        <h1>Berita Lingkungan</h1>
+        <p>Kenali Dampak Asap Karhutla</p>
+    </header>
 
-<main class="container">
-  <article class="article">
-    <img class="banner"
-      src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80"
-      alt="Pepohonan di kawasan hutan">
-    <h2>Asap Karhutla Mengancam Kesehatan dan Mengganggu Aktivitas Warga</h2>
-    <p class="meta">Kategori: Kesehatan dan Lingkungan | Penulis: Alea Talitha Putri</p>
+    <nav>
+        <a href="../index.html">Beranda</a>
+        <a href="../tentang-saya.html">Tentang Saya</a>
+        <a href="../sekolahku.html">Sekolahku</a>
+        <a href="../syair-lagu.html">Syair Lagu</a>
+        <a href="berita-1.html">Berita 1</a>
+        <a href="berita-2.html" aria-current="page">Berita 2</a>
+    </nav>
 
-    <p>Asap kebakaran hutan dan lahan atau karhutla menjadi
-      masalah serius karena dapat menyebar ke permukiman dan
-      wilayah sekitarnya. Asap mengandung partikel halus serta
-      berbagai zat hasil pembakaran yang dapat menurunkan
-      kualitas udara.</p>
+    <main class="container">
 
-    <h3>Dampak bagi Kesehatan</h3>
-    <p>Paparan asap dapat menyebabkan mata terasa perih,
-      tenggorokan tidak nyaman, batuk, dan sesak napas.
-      Orang yang memiliki gangguan pernapasan, anak-anak,
-      serta kelompok rentan lainnya perlu mendapatkan
-      perhatian khusus ketika kualitas udara memburuk.</p>
+        <article class="article">
 
-    <h3>Gangguan terhadap Aktivitas Masyarakat</h3>
-    <p>Kabut asap dapat mengurangi jarak pandang di jalan raya
-      sehingga perjalanan menjadi lebih berisiko. Kualitas
-      udara yang buruk juga dapat mengganggu kegiatan belajar,
-      pekerjaan, dan aktivitas luar ruangan. Selain itu,
-      pencemaran udara dapat memengaruhi lingkungan dalam
-      jangka pendek maupun panjang.</p>
+            <img
+                class="banner"
+                src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80"
+                alt="Pepohonan di kawasan hutan"
+                loading="lazy"
+            >
 
-    <h3>Cara Melindungi Diri dari Asap</h3>
-    <ul>
-      <li>Kurangi aktivitas di luar ruangan ketika kualitas udara buruk.</li>
-      <li>Tutup jendela dan pintu jika asap masuk ke lingkungan rumah.</li>
-      <li>Gunakan masker yang sesuai untuk membantu mengurangi paparan partikel saat harus keluar.</li>
-      <li>Perhatikan informasi kualitas udara dari sumber resmi.</li>
-      <li>Segera cari bantuan medis jika mengalami sesak napas atau gejala berat.</li>
-    </ul>
+            <h2>
+                Asap Karhutla Mengancam Kesehatan dan Mengganggu Aktivitas Warga
+            </h2>
 
-    <h3>Pentingnya Menjaga Hutan</h3>
-    <p>Pencegahan kebakaran hutan merupakan langkah penting
-      untuk mengurangi risiko kabut asap. Masyarakat perlu
-      bekerja sama menjaga lingkungan dan tidak melakukan
-      pembakaran lahan secara sembarangan.</p>
+            <p class="meta">
+                Kategori: Kesehatan dan Lingkungan |
+                Penulis: Alea Talitha Putri
+            </p>
 
-    <p class="source">Referensi bacaan:
-      <a href="https://www.menlhk.go.id/" target="_blank"
-         rel="noopener noreferrer">Kementerian Lingkungan Hidup</a>.
-      Artikel ini merupakan tulisan edukasi, bukan laporan
-      kejadian tertentu.</p>
+            <p>
+                Asap kebakaran hutan dan lahan atau karhutla menjadi
+                masalah serius karena dapat menyebar ke permukiman dan
+                wilayah sekitarnya. Asap mengandung partikel halus serta
+                berbagai zat hasil pembakaran yang dapat menurunkan
+                kualitas udara.
+            </p>
 
-    <a class="btn" href="../index.html">Kembali ke Beranda</a>
-  </article>
-</main>
+            <h3>Dampak bagi Kesehatan</h3>
 
-<footer>
-  <p>&copy; 2026 Alea Talitha Putri</p>
-</footer>
+            <p>
+                Paparan asap dapat menyebabkan mata terasa perih,
+                tenggorokan tidak nyaman, batuk, dan sesak napas.
+                Orang yang memiliki gangguan pernapasan, anak-anak,
+                serta kelompok rentan lainnya perlu mendapatkan
+                perhatian khusus ketika kualitas udara memburuk.
+            </p>
+
+            <h3>Gangguan terhadap Aktivitas Masyarakat</h3>
+
+            <p>
+                Kabut asap dapat mengurangi jarak pandang di jalan raya
+                sehingga perjalanan menjadi lebih berisiko. Kualitas
+                udara yang buruk juga dapat mengganggu kegiatan belajar,
+                pekerjaan, dan aktivitas luar ruangan. Selain itu,
+                pencemaran udara dapat memengaruhi lingkungan dalam
+                jangka pendek maupun panjang.
+            </p>
+
+            <h3>Cara Melindungi Diri dari Asap</h3>
+
+            <ul>
+                <li>
+                    Kurangi aktivitas di luar ruangan ketika kualitas
+                    udara buruk.
+                </li>
+                <li>
+                    Tutup jendela dan pintu jika asap masuk ke lingkungan
+                    rumah.
+                </li>
+                <li>
+                    Gunakan masker yang sesuai untuk membantu mengurangi
+                    paparan partikel saat harus keluar.
+                </li>
+                <li>
+                    Perhatikan informasi kualitas udara dari sumber resmi.
+                </li>
+                <li>
+                    Segera cari bantuan medis jika mengalami sesak napas
+                    atau gejala berat.
+                </li>
+            </ul>
+
+            <h3>Pentingnya Menjaga Hutan</h3>
+
+            <p>
+                Pencegahan kebakaran hutan merupakan langkah penting
+                untuk mengurangi risiko kabut asap. Masyarakat perlu
+                bekerja sama menjaga lingkungan dan tidak melakukan
+                pembakaran lahan secara sembarangan.
+            </p>
+
+            <p class="source">
+                <strong>Referensi bacaan:</strong>
+                <a
+                    href="https://www.menlhk.go.id/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Kementerian Lingkungan Hidup
+                </a>.
+                Artikel ini merupakan tulisan edukasi, bukan laporan
+                kejadian tertentu.
+            </p>
+
+            <a class="btn" href="../index.html">
+                Kembali ke Beranda
+            </a>
+
+        </article>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Alea Talitha Putri</p>
+    </footer>
+
 </body>
 </html>
