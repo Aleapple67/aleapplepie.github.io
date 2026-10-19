@@ -1,64 +1,94 @@
 <!DOCTYPE html>
 <html lang="id">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tentang Saya | Alea Talitha Putri</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Kenali Alea Talitha Putri, pelajar yang tertarik pada dunia desain, teknologi, seni, dan kreativitas.">
+
+    <title>Tentang Saya | Alea Talitha Putri</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<header class="hero">
-  <h1>Tentang Saya</h1>
-  <p>Mengenal lebih dekat diriku</p>
-</header>
 
-<nav>
-  <a href="index.html">Beranda</a>
-  <a href="tentang-saya.html">Tentang Saya</a>
-  <a href="sekolahku.html">Sekolahku</a>
-  <a href="syair-lagu.html">Syair Lagu</a>
-  <a href="berita/berita-1.html">Berita 1</a>
-  <a href="berita/berita-2.html">Berita 2</a>
-</nav>
+    <header class="hero">
+        <h1>Tentang Saya</h1>
+        <p>Mengenal Lebih Dekat Diriku</p>
+    </header>
 
-<main class="container">
-  <section class="profile">
-    <img class="profile-img"
-      src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=800&q=80"
-      alt="Ruang kreatif">
-    <div>
-      <h2>Halo, saya Alea!</h2>
-      <p>Nama saya Alea Talitha Putri. Saya adalah seorang
-        pelajar yang senang belajar hal baru dan mengembangkan
-        kemampuan diri.</p>
-      <p>Saya tertarik pada dunia desain, teknologi, dan seni.
-        Saya ingin meningkatkan kreativitas serta kemampuan
-        dalam membuat karya yang menarik dan bermanfaat.</p>
-      <p>Bagi saya, belajar adalah proses untuk menjadi lebih
-        baik, berani mencoba, dan tidak mudah menyerah.</p>
-    </div>
-  </section>
+    <nav>
+        <a href="index.html">Beranda</a>
+        <a href="tentang-saya.html" aria-current="page">Tentang Saya</a>
+        <a href="sekolahku.html">Sekolahku</a>
+        <a href="syair-lagu.html">Syair Lagu</a>
+        <a href="berita/berita-1.html">Berita 1</a>
+        <a href="berita/berita-2.html">Berita 2</a>
+    </nav>
 
-  <section class="panel">
-    <h2>Hobi dan Minat</h2>
-    <ul>
-      <li>Mendengarkan musik</li>
-      <li>Mempelajari desain grafis</li>
-      <li>Mencari inspirasi kreatif</li>
-      <li>Mempelajari teknologi baru</li>
-    </ul>
-  </section>
+    <main class="container">
 
-  <section class="panel">
-    <h2>Cita-cita</h2>
-    <p>Saya ingin menjadi pribadi yang kreatif, mandiri,
-      bertanggung jawab, dan mampu menghasilkan karya
-      yang bermanfaat bagi banyak orang.</p>
-  </section>
-</main>
+        <section class="profile">
 
-<footer>
-  <p>&copy; 2026 Alea Talitha Putri</p>
-</footer>
+            <img
+                class="profile-img"
+                src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=800&q=80"
+                alt="Ruang kerja kreatif dengan meja dan perlengkapan kerja"
+                loading="lazy"
+            >
+
+            <div>
+                <h2>Halo, Saya Alea!</h2>
+
+                <p>
+                    Nama saya Alea Talitha Putri. Saya adalah seorang
+                    pelajar yang senang belajar hal baru dan
+                    mengembangkan kemampuan diri.
+                </p>
+
+                <p>
+                    Saya tertarik pada dunia desain, teknologi, dan seni.
+                    Saya ingin meningkatkan kreativitas serta kemampuan
+                    dalam membuat karya yang menarik dan bermanfaat.
+                </p>
+
+                <p>
+                    Bagi saya, belajar adalah proses untuk menjadi lebih
+                    baik, berani mencoba, dan tidak mudah menyerah.
+                </p>
+            </div>
+
+        </section>
+
+        <section class="panel">
+            <h2>Hobi dan Minat</h2>
+
+            <ul>
+                <li>Mendengarkan musik</li>
+                <li>Mempelajari desain grafis</li>
+                <li>Mencari inspirasi kreatif</li>
+                <li>Mempelajari teknologi baru</li>
+            </ul>
+        </section>
+
+        <section class="panel">
+            <h2>Cita-cita</h2>
+
+            <p>
+                Saya ingin menjadi pribadi yang kreatif, mandiri,
+                bertanggung jawab, dan mampu menghasilkan karya
+                yang bermanfaat bagi banyak orang.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Alea Talitha Putri</p>
+    </footer>
+
 </body>
+
 </html>
