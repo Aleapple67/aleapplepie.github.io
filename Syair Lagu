@@ -1,64 +1,80 @@
 <!DOCTYPE html>
 <html lang="id">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Syair Lagu | Alea Talitha Putri</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Syair orisinal berjudul Bumi yang Kita Cinta, karya Alea Talitha Putri, tentang kepedulian terhadap lingkungan.">
+
+    <title>Syair Lagu | Alea Talitha Putri</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<header class="hero">
-  <h1>Syair Lagu</h1>
-  <p>Melodi untuk bumi kita</p>
-</header>
 
-<nav>
-  <a href="index.html">Beranda</a>
-  <a href="tentang-saya.html">Tentang Saya</a>
-  <a href="sekolahku.html">Sekolahku</a>
-  <a href="syair-lagu.html">Syair Lagu</a>
-  <a href="berita/berita-1.html">Berita 1</a>
-  <a href="berita/berita-2.html">Berita 2</a>
-</nav>
+    <header class="hero">
+        <h1>Syair Lagu</h1>
+        <p>Melodi untuk Bumi Kita</p>
+    </header>
 
-<main class="container">
-  <section class="lyrics">
-    <h2>Judul: Bumi yang Kita Cinta</h2>
-    <p class="subtitle">Syair orisinal karya Alea</p>
+    <nav>
+        <a href="index.html">Beranda</a>
+        <a href="tentang-saya.html">Tentang Saya</a>
+        <a href="sekolahku.html">Sekolahku</a>
+        <a href="syair-lagu.html" aria-current="page">Syair Lagu</a>
+        <a href="berita/berita-1.html">Berita 1</a>
+        <a href="berita/berita-2.html">Berita 2</a>
+    </nav>
 
-    <p>
-      Di bawah langit yang membiru,<br>
-      Tumbuh pepohonan yang menghijau.<br>
-      Burung bernyanyi menyambut pagi,<br>
-      Alam indah harus kita lindungi.
-    </p>
+    <main class="container">
 
-    <p>
-      <strong>Reff:</strong><br>
-      Jagalah bumi, tempat kita hidup,<br>
-      Jangan biarkan hutan meredup.<br>
-      Tanam harapan, rawat kehidupan,<br>
-      Bersama kita jaga masa depan.
-    </p>
+        <section class="lyrics">
 
-    <p>
-      Sungai mengalir dengan jernih,<br>
-      Udara segar terasa bersih.<br>
-      Mari bergerak, mulai hari ini,<br>
-      Agar bumi tetap lestari.
-    </p>
+            <h2>Judul: Bumi yang Kita Cinta</h2>
 
-    <p>
-      Satu langkah membawa perubahan,<br>
-      Satu tindakan memberi harapan.<br>
-      Untuk generasi yang akan datang,<br>
-      Bumi yang hijau tetap gemilang.
-    </p>
-  </section>
-</main>
+            <p class="subtitle">
+                Syair orisinal karya Alea
+            </p>
 
-<footer>
-  <p>&copy; 2026 Alea Talitha Putri</p>
-</footer>
+            <p>
+                Di bawah langit yang membiru,<br>
+                Tumbuh pepohonan yang menghijau.<br>
+                Burung bernyanyi menyambut pagi,<br>
+                Alam indah harus kita lindungi.
+            </p>
+
+            <p>
+                <strong>Reff:</strong><br>
+                Jagalah bumi, tempat kita hidup,<br>
+                Jangan biarkan hutan meredup.<br>
+                Tanam harapan, rawat kehidupan,<br>
+                Bersama kita jaga masa depan.
+            </p>
+
+            <p>
+                Sungai mengalir dengan jernih,<br>
+                Udara segar terasa bersih.<br>
+                Mari bergerak, mulai hari ini,<br>
+                Agar bumi tetap lestari.
+            </p>
+
+            <p>
+                Satu langkah membawa perubahan,<br>
+                Satu tindakan memberi harapan.<br>
+                Untuk generasi yang akan datang,<br>
+                Bumi yang hijau tetap gemilang.
+            </p>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Alea Talitha Putri</p>
+    </footer>
+
 </body>
+
 </html>
