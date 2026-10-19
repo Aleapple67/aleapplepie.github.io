@@ -1,61 +1,85 @@
 <!DOCTYPE html>
 <html lang="id">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sekolahku | Alea Talitha Putri</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Informasi tentang sekolah, hal yang dipelajari, dan harapan Alea Talitha Putri sebagai siswa SMK Negeri 1 Tangerang.">
+
+    <title>Sekolahku | Alea Talitha Putri</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<header class="hero">
-  <h1>Sekolahku</h1>
-  <p>Tempat belajar dan meraih cita-cita</p>
-</header>
 
-<nav>
-  <a href="index.html">Beranda</a>
-  <a href="tentang-saya.html">Tentang Saya</a>
-  <a href="sekolahku.html">Sekolahku</a>
-  <a href="syair-lagu.html">Syair Lagu</a>
-  <a href="berita/berita-1.html">Berita 1</a>
-  <a href="berita/berita-2.html">Berita 2</a>
-</nav>
+    <header class="hero">
+        <h1>Sekolahku</h1>
+        <p>Tempat Belajar dan Meraih Cita-Cita</p>
+    </header>
 
-<main class="container">
-  <img class="banner"
-    src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=80"
-    alt="Suasana ruang kelas">
+    <nav>
+        <a href="index.html">Beranda</a>
+        <a href="tentang-saya.html">Tentang Saya</a>
+        <a href="sekolahku.html" aria-current="page">Sekolahku</a>
+        <a href="syair-lagu.html">Syair Lagu</a>
+        <a href="berita/berita-1.html">Berita 1</a>
+        <a href="berita/berita-2.html">Berita 2</a>
+    </nav>
 
-  <section class="panel">
-    <h2>SMK Negeri 1 Tangerang</h2>
-    <p>Sekolah merupakan tempat untuk menuntut ilmu,
-      mengembangkan keterampilan, dan membentuk karakter.</p>
-    <p>Sebagai pelajar SMK, saya ingin memperoleh ilmu
-      pengetahuan sekaligus keterampilan yang dapat digunakan
-      untuk menghadapi dunia kerja dan melanjutkan pendidikan.</p>
-  </section>
+    <main class="container">
 
-  <section class="panel">
-    <h2>Hal yang Dipelajari</h2>
-    <ul>
-      <li>Pengetahuan umum dan pelajaran kejuruan</li>
-      <li>Kreativitas dan keterampilan desain</li>
-      <li>Penggunaan teknologi digital</li>
-      <li>Kerja sama dan komunikasi</li>
-      <li>Kedisiplinan dan tanggung jawab</li>
-    </ul>
-  </section>
+        <img
+            class="banner"
+            src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=80"
+            alt="Suasana ruang kelas dengan meja dan kursi belajar"
+            loading="lazy"
+        >
 
-  <section class="panel">
-    <h2>Harapan Saya</h2>
-    <p>Saya berharap dapat menjadi siswa yang aktif,
-      disiplin, berprestasi, serta mampu membawa nama baik
-      sekolah melalui sikap dan karya yang positif.</p>
-  </section>
-</main>
+        <section class="panel">
+            <h2>SMK Negeri 1 Tangerang</h2>
 
-<footer>
-  <p>&copy; 2026 Alea Talitha Putri</p>
-</footer>
+            <p>
+                Sekolah merupakan tempat untuk menuntut ilmu,
+                mengembangkan keterampilan, dan membentuk karakter.
+            </p>
+
+            <p>
+                Sebagai pelajar SMK, saya ingin memperoleh ilmu
+                pengetahuan sekaligus keterampilan yang dapat digunakan
+                untuk menghadapi dunia kerja dan melanjutkan pendidikan.
+            </p>
+        </section>
+
+        <section class="panel">
+            <h2>Hal yang Dipelajari</h2>
+
+            <ul>
+                <li>Pengetahuan umum dan pelajaran kejuruan</li>
+                <li>Kreativitas dan keterampilan desain</li>
+                <li>Penggunaan teknologi digital</li>
+                <li>Kerja sama dan komunikasi</li>
+                <li>Kedisiplinan dan tanggung jawab</li>
+            </ul>
+        </section>
+
+        <section class="panel">
+            <h2>Harapan Saya</h2>
+
+            <p>
+                Saya berharap dapat menjadi siswa yang aktif,
+                disiplin, berprestasi, serta mampu membawa nama baik
+                sekolah melalui sikap dan karya yang positif.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Alea Talitha Putri</p>
+    </footer>
+
 </body>
+
 </html>
