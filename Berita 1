@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kebakaran Hutan | Alea Talitha Putri</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header class="hero">
+  <h1>Berita Lingkungan</h1>
+  <p>Peduli alam, jaga masa depan</p>
+</header>
+
+<nav>
+  <a href="../index.html">Beranda</a>
+  <a href="../tentang-saya.html">Tentang Saya</a>
+  <a href="../sekolahku.html">Sekolahku</a>
+  <a href="../syair-lagu.html">Syair Lagu</a>
+  <a href="berita-1.html">Berita 1</a>
+  <a href="berita-2.html">Berita 2</a>
+</nav>
+
+<main class="container">
+  <article class="article">
+    <img class="banner"
+      src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=1200&q=80"
+      alt="Kawasan hutan">
+    <h2>Kebakaran Hutan: Ancaman bagi Lingkungan dan Kehidupan</h2>
+    <p class="meta">Kategori: Lingkungan | Penulis: Alea Talitha Putri</p>
+
+    <p><strong>Kebakaran hutan</strong> merupakan peristiwa
+      terbakarnya kawasan hutan yang dapat merusak lingkungan
+      dan mengancam kehidupan manusia maupun satwa liar.
+      Kebakaran dapat terjadi akibat aktivitas manusia maupun
+      faktor alam dalam kondisi tertentu.</p>
+
+    <h3>Penyebab Kebakaran Hutan</h3>
+    <p>Salah satu penyebab kebakaran hutan adalah pembukaan
+      lahan dengan cara membakar. Api juga dapat berasal dari
+      kegiatan manusia yang tidak terkendali. Ketika kondisi
+      lingkungan kering dan angin bertiup kencang, api dapat
+      menyebar dengan cepat ke area sekitarnya.</p>
+
+    <h3>Dampak terhadap Lingkungan</h3>
+    <p>Kebakaran hutan dapat menghancurkan habitat satwa,
+      mengurangi keanekaragaman hayati, merusak kesuburan tanah,
+      dan mengganggu keseimbangan ekosistem. Asap yang dihasilkan
+      juga menurunkan kualitas udara dan mengganggu aktivitas
+      masyarakat.</p>
+
+    <h3>Upaya Pencegahan</h3>
+    <p>Masyarakat dapat membantu mencegah kebakaran dengan
+      tidak membakar lahan sembarangan, tidak meninggalkan api
+      yang menyala di kawasan hutan, menjaga lingkungan,
+      serta segera melaporkan tanda kebakaran kepada petugas.</p>
+
+    <p>Menjaga hutan merupakan tanggung jawab bersama.
+      Dengan meningkatkan kepedulian dan melakukan pencegahan,
+      risiko kebakaran dapat dikurangi.</p>
+
+    <p class="source">Referensi bacaan:
+      <a href="https://www.menlhk.go.id/" target="_blank"
+         rel="noopener noreferrer">Kementerian Lingkungan Hidup</a>.
+      Artikel ini ditulis sebagai berita edukasi.</p>
+
+    <a class="btn" href="../index.html">Kembali ke Beranda</a>
+  </article>
+</main>
+
+<footer>
+  <p>&copy; 2026 Alea Talitha Putri</p>
+</footer>
+</body>
+</html>
