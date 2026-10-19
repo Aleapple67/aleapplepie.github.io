@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Beranda | Alea Talitha Putri</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <h1>Alea Talitha Putri</h1>
+  <p>Selamat Datang di Website Pribadiku</p>
+</header>
+
+<nav>
+  <a href="index.html">Beranda</a>
+  <a href="tentang-saya.html">Tentang Saya</a>
+  <a href="sekolahku.html">Sekolahku</a>
+  <a href="syair-lagu.html">Syair Lagu</a>
+  <a href="berita/berita-1.html">Berita 1</a>
+  <a href="berita/berita-2.html">Berita 2</a>
+</nav>
+
+<main class="container">
+  <section class="welcome">
+    <h2>Halo, Selamat Datang!</h2>
+    <p>Terima kasih sudah mengunjungi website saya.
+      Website ini berisi informasi tentang diri saya,
+      sekolah, syair lagu, dan berita lingkungan.</p>
+    <img class="banner"
+      src="https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80"
+      alt="Hutan hijau">
+  </section>
+
+  <h2>Berita Terbaru</h2>
+  <div class="cards">
+    <article class="card">
+      <img src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&w=800&q=80"
+        alt="Pepohonan di hutan">
+      <h3>Kebakaran Hutan dan Penyebabnya</h3>
+      <p>Mengenal penyebab kebakaran hutan serta cara mencegahnya.</p>
+      <a class="btn" href="berita/berita-1.html">Baca Selengkapnya</a>
+    </article>
+
+    <article class="card">
+      <img src="https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=800&q=80"
+        alt="Hutan dan pepohonan">
+      <h3>Dampak Asap Karhutla</h3>
+      <p>Mengetahui pengaruh asap kebakaran hutan terhadap kesehatan dan lingkungan.</p>
+      <a class="btn" href="berita/berita-2.html">Baca Selengkapnya</a>
+    </article>
+  </div>
+</main>
+
+<footer>
+  <p>&copy; 2026 Alea Talitha Putri | Website Pribadi</p>
+</footer>
+</body>
+</html>
