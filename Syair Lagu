@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Syair Lagu | Alea Talitha Putri</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <h1>Syair Lagu</h1>
+  <p>Melodi untuk bumi kita</p>
+</header>
+
+<nav>
+  <a href="index.html">Beranda</a>
+  <a href="tentang-saya.html">Tentang Saya</a>
+  <a href="sekolahku.html">Sekolahku</a>
+  <a href="syair-lagu.html">Syair Lagu</a>
+  <a href="berita/berita-1.html">Berita 1</a>
+  <a href="berita/berita-2.html">Berita 2</a>
+</nav>
+
+<main class="container">
+  <section class="lyrics">
+    <h2>Judul: Bumi yang Kita Cinta</h2>
+    <p class="subtitle">Syair orisinal karya Alea</p>
+
+    <p>
+      Di bawah langit yang membiru,<br>
+      Tumbuh pepohonan yang menghijau.<br>
+      Burung bernyanyi menyambut pagi,<br>
+      Alam indah harus kita lindungi.
+    </p>
+
+    <p>
+      <strong>Reff:</strong><br>
+      Jagalah bumi, tempat kita hidup,<br>
+      Jangan biarkan hutan meredup.<br>
+      Tanam harapan, rawat kehidupan,<br>
+      Bersama kita jaga masa depan.
+    </p>
+
+    <p>
+      Sungai mengalir dengan jernih,<br>
+      Udara segar terasa bersih.<br>
+      Mari bergerak, mulai hari ini,<br>
+      Agar bumi tetap lestari.
+    </p>
+
+    <p>
+      Satu langkah membawa perubahan,<br>
+      Satu tindakan memberi harapan.<br>
+      Untuk generasi yang akan datang,<br>
+      Bumi yang hijau tetap gemilang.
+    </p>
+  </section>
+</main>
+
+<footer>
+  <p>&copy; 2026 Alea Talitha Putri</p>
+</footer>
+</body>
+</html>
